@@ -4,7 +4,7 @@ This documentation provides a detailed guide on implementing a fuzzy logic syste
 Python (version 3.6 or later)
 Virtual environment tool (optional but recommended)
 ### Setup Process
-Install Python: Ensure Python is installed on your system. You can download it from python.org.
+Install Python: Ensure Python is installed on your system.  can be download from python.org.
 
 ### Install Required Libraries:
       pip install numpy scikit-fuzzy
